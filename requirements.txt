@@ -1,2 +1,7 @@
+#Este archivo contiene la lista de los modulos que seran cargados por el docker bajo el cual se ejecuta 
+#el notebook de jyputer
+
 numpy==1.20.1
 matplotlib==3.3.4
+scipy==1.4.1
+
